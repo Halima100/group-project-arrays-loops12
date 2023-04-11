@@ -45,3 +45,4 @@ console.log(cities.trim()); // removed white spaces around string
 
 
 let newList = [...new Set(splits)];
+console.log(newList); //removed duplicate_ cities
